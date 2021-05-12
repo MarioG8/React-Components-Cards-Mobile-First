@@ -3,7 +3,7 @@
 .card {
   box-shadow: 0 0 10px 5px $clr-gray300;
   border-radius: $radius;
-  min-width: auto;
+  min-width: fit-content;
   display: flex;
 
   &__img {
